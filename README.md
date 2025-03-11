@@ -1,2 +1,3 @@
 # inventory_project
-プロジェクト保管庫
+在庫管理アプリ（Django）
+
